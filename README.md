@@ -1,13 +1,13 @@
 # Mun 114
 
-**Состав команды**
+### **Состав команды**
 
 * Кузин Антон - тимлид, создатель математической модели полета
 * Маркелов Ярослав - программист
 * Подцыкин Валерий - оформление проекта по ГОСТу, медиа
 * Гайдуков Александр - симуляторщик
   
-**Модель ракеты создана в конструкторе Kerbal Space Program**
+### **Модель ракеты создана в конструкторе Kerbal Space Program**
 
 <img width="640" alt="image" src="https://github.com/yaroslavkmark/KerbalProject/assets/87874420/364defe3-ff52-4bdd-899b-a4c84530dc74">
 
@@ -16,7 +16,7 @@
 
 [Файл](https://github.com/yaroslavkmark/KerbalProject/blob/main/BiGBoy.craft) с моделью ракеты
 
-**Программы**
+### **Программы**
 
 Программа для сбора данных написана на языке **Python** с использованием библиотеки **kRPC**
 
@@ -30,8 +30,8 @@
 * Программа для построения [графика импульса ко времени](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_impulse-to-time.py)
 * Программа для построения [графика массы ко времени](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_mass-to-time.py)
 
-**Ссылка на материалы проекта и отчет**
+### **Ссылка на материалы проекта и отчет**
 
-**Ссылка на видеоотчет на YouTube**
+### **Ссылка на видеоотчет на YouTube**
 
-**Ссылка на оригинал отчета**
+### **Ссылка на оригинал отчета**
