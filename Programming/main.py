@@ -43,7 +43,6 @@ def main():
         srf_frame = vessel.orbit.body.reference_frame
         srf_speed = vessel.flight(srf_frame).speed
         mass = vessel.mass
-        dry_mass = vessel.dry_mass
         impulse = int(vessel.specific_impulse)
         horizontal_speed = int(flight_info.horizontal_speed)
         vertical_speed = int(flight_info.vertical_speed)
