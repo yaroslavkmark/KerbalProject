@@ -26,9 +26,9 @@
 
 * Программа для построения [графика вертикальной скорости ко времени](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_vertical-speed.py)
 * Программа для построения [графика горизонтальной скорости ко времени](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_horizontal-speed.py)
-* Программа для построения [графика скорости ко времени](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_airspeed.py)
+* Программа для построения [графика скорости ко времени в сравнении с мат моделью](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_srf-speed.py)
 * Программа для построения [графика импульса ко времени](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_impulse-to-time.py)
-* Программа для построения [графика массы ко времени](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_mass-to-time.py)
+* Программа для построения [графика массы ко времени в сравнении с мат моделью](https://github.com/yaroslavkmark/KerbalProject/blob/main/Programming/graph_mass-to-time.py)
 
 ### **Ссылка на материалы проекта и отчет**
 
