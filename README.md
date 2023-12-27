@@ -37,3 +37,5 @@ https://drive.google.com/drive/folders/1UJ1gGMBp_nEMsk49p-EPri51XEOd0k-i?usp=dri
 ### **Ссылка на видеоотчет на YouTube**
 
 ### **Ссылка на оригинал отчета**
+
+https://docs.google.com/document/d/1ylNCVhUbK_mloAvB5ZHvST77yqBpE87p/edit
