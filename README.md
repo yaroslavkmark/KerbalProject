@@ -32,6 +32,8 @@
 
 ### **Ссылка на материалы проекта и отчет**
 
+https://drive.google.com/drive/folders/1UJ1gGMBp_nEMsk49p-EPri51XEOd0k-i?usp=drive_link
+
 ### **Ссылка на видеоотчет на YouTube**
 
 ### **Ссылка на оригинал отчета**
