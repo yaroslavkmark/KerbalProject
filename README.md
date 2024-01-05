@@ -40,4 +40,4 @@ https://www.youtube.com/watch?v=_p_75hw8ddg
 
 ### **Ссылка на оригинал отчета**
 
-https://docs.google.com/document/d/1ylNCVhUbK_mloAvB5ZHvST77yqBpE87p/edit
+https://docs.google.com/document/d/1MoKNVEwIJVv-mZKVygXwJUsvP_LdIGpH/edit
